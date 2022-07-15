@@ -24,12 +24,12 @@
 ## Languages and Tools:
 
 ### Development:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/visualstudiocode.svg" style="padding-right:10px;" />
 <img align="left" alt="neoVim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/neovim.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/html5.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/css3.svg" style="padding-right:10px;" />
 
 &nbsp;
 ### AV:
