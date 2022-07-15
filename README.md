@@ -10,21 +10,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](be.net/cmgsk#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](be.net/cmgsk#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](be.net/cmgsk)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/turbotroleo#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/turbotroleo#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/turbotroleo)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/CMGSK#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/CMGSK#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/CMGSK)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/turbotroleo#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/turbotroleo#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/turbotroleo)
 
 ### Languages and Tools:
 
-##Development:
+## Development:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="neoVim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/neovim.svg" style="padding-right:10px;" />]
 [<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" style="padding-right:10px;" />]
@@ -32,7 +28,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 
-##AV:
+## AV:
 [<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobephotoshop.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Premiere Pro" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobepremierepro.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobelightroom.svg" style="padding-right:10px;" />]
