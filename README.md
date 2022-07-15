@@ -41,6 +41,13 @@
 <img align="left" alt="OBS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/obsstudio.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/blender.svg" style="padding-right:10px;" />
 
+&nbsp;
+## O.S.:
+<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/windows.svg" style="padding-right:10px;" />
+<img align="left" alt="iOS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/ios.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linux.svg" style="padding-right:10px;" />
+
+
 
 
 </details>
