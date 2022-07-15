@@ -8,15 +8,18 @@
 - ⚡ Fun fact: I'm learning Japanese and I already know about 1000 kanji!
 - 📫 How to reach me: You can contact me on my personal e-mail [carlosmgov7k@gmail.com] or phone 663 14 87 97.
 
-### Connect with me:
+### Social:
 
-[![website](./img/globe-light.svg)](be.net/cmgsk)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/turbotroleo)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/CMGSK)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/turbotroleo)
+[Behance](be.net/cmgsk)
+
+
+[Twitter](https://twitter.com/turbotroleo)
+
+
+[Linkedin](https://linkedin.com/in/CMGSK)
+
+
+[Instagram](https://instagram.com/turbotroleo)
 
 ## Languages and Tools:
 
@@ -28,7 +31,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
-
+&nbsp;
 ### AV:
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobephotoshop.svg" style="padding-right:10px;" />
 <img align="left" alt="Premiere Pro" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobepremierepro.svg" style="padding-right:10px;" />
