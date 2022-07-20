@@ -48,7 +48,13 @@
 <img align="left" alt="iOS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/ios.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linux.svg" style="padding-right:10px;" />
 
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+#### Stats:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMGSK&layout=compact&theme=merko)](https://github.com/CMGSK/github-readme-stats)
 
 
 </details>
@@ -57,3 +63,5 @@
 [twitter]: https://twitter.com/turbotroleo
 [instagram]: https://instagram.com/turbotroleo
 [linkedin]: https://linkedin.com/in/CMGSK
+
+
