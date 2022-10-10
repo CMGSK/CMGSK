@@ -5,7 +5,7 @@
 - 🔭 Check out my AV portfolio: [behance][behance]
 - 🌱 I’m currently learning software development and working in different AV projects!
 - 🥅 2022 Goals: improve my programming skills and get used to HTML/CSS workflow.
-- ⚡ Fun fact: I'm learning Japanese and I already know about 1000 kanji!
+- ⚡ Useless fact: I'm learning Japanese although my listening skills are still far from good i already memorized over 1500 Kanji
 - 📫 How to reach me: You can contact me on my personal e-mail [carlosmgov7k@gmail.com] or phone 663 14 87 97.
 - 🗣️ Languages: Native spanish, C2 English, N4 Japanese, A2 French
 
