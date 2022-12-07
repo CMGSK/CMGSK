@@ -11,16 +11,7 @@
 
 ### Social:
 
-[Behance](be.net/cmgsk)
-
-
-[Twitter](https://twitter.com/turbotroleo)
-
-
-[Linkedin](https://linkedin.com/in/CMGSK)
-
-
-[Instagram](https://instagram.com/turbotroleo)
+[Behance](be.net/cmgsk) - [Twitter](https://twitter.com/turbotroleo) - [Linkedin](https://linkedin.com/in/CMGSK) - [Instagram](https://instagram.com/turbotroleo)
 
 ## Languages and Tools:
 
