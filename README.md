@@ -5,7 +5,7 @@
 - I’m currently learning software development and working in different AV projects!
 - Goals: learn HTML, CSS, C#, Python, Lua and Rust!
 - Useless fact: I'm learning Japanese! Although my listening skills are still far from good i already memorized over 2000 Kanji!!
-- Contact: Personal e-mail [carlosmgov7k@gmail.com] && phone [663 14 87 97].
+- Contact: Personal e-mail [carlosmgov7k@gmail.com] - phone [663 14 87 97].
 - Languages: Native spanish, C2 English, N4 Japanese, A2 French
 
 ### Social:
