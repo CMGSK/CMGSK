@@ -1,7 +1,8 @@
-## Hi there, I'm Carlos aka CMGSK 👋 
+## Hi there 👋
 
-### Photographer, cameraman, editor, and future software developer!!
+#### My name is Carlos, welcome to my GitHub! Here's some info about me:
 
+- I'm a photographer, cameraman, editor, and future software developer!!
 - I’m currently learning software development and working in different AV projects!
 - Goals: learn HTML, CSS, C#, Python, Lua and Rust!
 - Useless fact: I'm learning Japanese! Although my listening skills are still far from good i already memorized over 2000 Kanji!!
