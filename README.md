@@ -16,32 +16,27 @@
 
 ### Development:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" style="padding-right:10px;" />
-<img align="left" alt="neoVim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/neovim.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/152/152760.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/html5.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/css3.svg" style="padding-right:10px;" />
+<img align="left" alt="neoVim" width="26px" src="https://pics.freeicons.io/uploads/icons/png/18687308071552037057-512.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="padding-right:10px;" />
 
 
 ### AV:
-<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobephotoshop.svg" style="padding-right:10px;" />
-<img align="left" alt="Premiere Pro" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobepremierepro.svg" style="padding-right:10px;" />
-<img align="left" alt="Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobelightroom.svg" style="padding-right:10px;" />
-<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobeillustrator.svg" style="padding-right:10px;" />
-<img align="left" alt="After Effects" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/adobeaftereffects.svg" style="padding-right:10px;" />
-<img align="left" alt="OBS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/obsstudio.svg" style="padding-right:10px;" />
-<img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/blender.svg" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="26px" src="https://pics.freeicons.io/uploads/icons/png/10139184471591557584-512.png" style="padding-right:10px;" />
+<img align="left" alt="Premiere Pro" width="26px" src="https://pics.freeicons.io/uploads/icons/png/879026781599979340-512.png" style="padding-right:10px;" />
+<img align="left" alt="Lightroom" width="26px" src="https://pics.freeicons.io/uploads/icons/png/6601919841599979340-512.png" style="padding-right:10px;" />
+<img align="left" alt="OBS" width="26px" src="https://img.icons8.com/office/512/obs-studio.png" style="padding-right:10px;" />
 
 
 ### O.S.:
-<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/windows.svg" style="padding-right:10px;" />
-<img align="left" alt="iOS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/ios.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linux.svg" style="padding-right:10px;" />
+<img align="left" alt="Windows" width="26px" src="https://img.icons8.com/color/512/windows-10.png" style="padding-right:10px;" />
+<img align="left" alt="iOS" width="26px" src="https://seeklogo.com/images/A/Apple-logo-4DC2B05F7D-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png" style="padding-right:10px;" />
 
 
 #### Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMGSK&layout=compact&theme=merko)](https://github.com/CMGSK/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrryy&layout=compact&langs_count=8&exclude_repo=miniomp)
 
 
 </details>
