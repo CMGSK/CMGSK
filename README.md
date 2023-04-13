@@ -9,6 +9,8 @@
 - Contact: Personal e-mail [carlosmgov7k@gmail.com] - phone [663 14 87 97].
 - Languages: Native spanish, C2 English, N4 Japanese, A2 French
 
+Please be patient with me, a lot of things are really old, from where i wrote my first lines, im still learning and I know some of my repos are not the most organized, clean or merely decent there could be, but I try my best to improve, be organized and learn methodologies and conventions about the things I do <3
+
 ### Social:
 
 [Behance](https://www.behance.net/cmgsk) - [Twitter](https://twitter.com/turbotroleo) - [Linkedin](https://www.linkedin.com/in/cmg-sk/) - [Instagram](https://instagram.com/turbotroleo)
