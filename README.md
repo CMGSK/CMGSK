@@ -4,7 +4,7 @@
 <h3>Here's a little about me:</h3>  
 
 💡  I like to study and keep learning everything I can, from computer science to any other different topics that interest me.  
-🎓  I'm an EQF5 higher VET technician in Audiovisuals and Cross-platform development.  
+🎓  I'm an EQF5 higher VET technician in Lighting and Multimedia Production and Cross-platform Development.  
 🌱  I'm now focused on learning some cyber-security and ethical hacking fundamentals, but I don't have much free time!  
 ✍️  In my free time, I love videogames, pool and spend all the time I can with my friends.  
 ✉️  Feel free to contact me anytime on my personal email account carlosmgov7k@gmail.com  
@@ -39,7 +39,7 @@
 ![Vim](https://img.shields.io/badge/_-Vim?style=plastic&logo=vim&logoColor=black&logoSize=auto&label=Vim&labelColor=white&color=green)
 ![Git](https://img.shields.io/badge/_-Git?style=plastic&logo=git&logoColor=black&logoSize=auto&label=Git&labelColor=white&color=coral)\
 ![VSC](https://img.shields.io/badge/_-Visual_Studio_Code?style=plastic&logo=vscodium&logoColor=black&logoSize=auto&label=VSCode&labelColor=white&color=blue)
-![Ps](https://img.shields.io/badge/_-Photoshop?style=plastic&logo=photoshop&logoColor=black&logoSize=auto&label=Photoshop&labelColor=white&color=darkblue)
+![Ps](https://img.shields.io/badge/_-Photoshop?style=plastic&logo=adobephotoshop&logoColor=black&logoSize=auto&label=Photoshop&labelColor=white&color=darkblue)
 
 
    
