@@ -1,63 +1,97 @@
-![Miku hehe](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.animesoul.com%2Fimages%2Fbanners%2Fhatsune_miku_01_banner.png&f=1&nofb=1&ipt=4dfb0e43ae7efacc858705931ab62530b01d0c52bb39aeff424f4407ad7258ff&ipo=images)
+<h3 align="left">Hey there! My name is Carlos, welcome to my GitHub!</h3>
 
-<h2>Hey there! I'm Carlos</h2>  
-<h3>Here's a little about me:</h3>  
+###
 
-💡  I like to study and keep learning everything I can, from computer science to any other different topics that interest me.  
-🎓  I'm an EQF5 higher VET technician in Lighting and Multimedia Production and Cross-platform Development.  
-🌱  I'm now focused on learning some cyber-security and ethical hacking fundamentals, but I don't have much free time!  
-✍️  In my free time, I love videogames, pool and spend all the time I can with my friends.  
-✉️  Feel free to contact me anytime on my personal email account carlosmgov7k@gmail.com  
-💬  I am native Spanish, fluent in English (C2), with mid-low Japanese (N4), and very basic French, Catalonian and German  
+<br clear="both">
 
-### 🛠 Tech Stack
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/1c62b3ee8b53a92029535c8756411f25721f2fdc071235ef809aafc826f62de0/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324663646e2e616e696d65736f756c2e636f6d253246696d6167657325324662616e6e65727325324668617473756e655f6d696b755f30315f62616e6e65722e706e6726663d31266e6f66623d31266970743d346466623065343361653765666163633835383730353933316162363235333062303164306335326262333961656666343234663434303761643732353866662669706f3d696d61676573"  />
+</div>
 
-#### Languages
-![Rust](https://img.shields.io/badge/_-Rust?style=plastic&logo=rust&logoColor=black&logoSize=auto&label=Rust&labelColor=white&color=coral)
-![Python](https://img.shields.io/badge/_-Python?style=plastic&logo=python&logoColor=black&logoSize=auto&label=Python&labelColor=white&color=blue)
-![C++](https://img.shields.io/badge/_-C++?style=plastic&logo=C%2B%2B&logoColor=black&logoSize=auto&label=C%2B%2B&labelColor=white&color=lightskyblue)\
-![C#](https://img.shields.io/badge/_-C%23?style=plastic&logo=C%2B%2B&logoColor=black&logoSize=auto&label=C%23&labelColor=white&color=green)
-![Java](https://img.shields.io/badge/_-Java?style=plastic&logo=oracle&logoColor=black&logoSize=auto&label=Java&labelColor=white&color=ff0000)
-![SQL](https://img.shields.io/badge/_-Java?style=plastic&logo=mysql&logoColor=black&logoSize=auto&label=SQL&labelColor=white&color=blue)\
-![PHP](https://img.shields.io/badge/_-PHP?style=plastic&logo=php&logoColor=black&logoSize=auto&label=PHP&labelColor=white&color=plum)
-![Bash](https://img.shields.io/badge/_-Bash?style=plastic&logo=gnubash&logoColor=black&logoSize=auto&label=Bash&labelColor=white&color=black)
-![Typescript](https://img.shields.io/badge/_-Typescript?style=plastic&logo=typescript&logoColor=black&logoSize=auto&label=Typescript&labelColor=white&color=blue)\
-![HTML](https://img.shields.io/badge/_-HTML?style=plastic&logo=html5&logoColor=black&logoSize=auto&label=HTML&labelColor=white&color=coral)
-![CSS](https://img.shields.io/badge/_-CSS?style=plastic&logo=css3&logoColor=black&logoSize=auto&label=CSS&labelColor=white&color=blue)
+###
 
-#### Frameworks and Tools
-![FastAPI](https://img.shields.io/badge/_-FastAPI?style=plastic&logo=FastAPI&logoColor=black&logoSize=auto&label=FastAPI&labelColor=white&color=turquoise)
-![Django](https://img.shields.io/badge/_-Django?style=plastic&logo=Django&logoColor=black&logoSize=auto&label=Django&labelColor=white&color=green)
-![Angular](https://img.shields.io/badge/_-Angular?style=plastic&logo=angular&logoColor=black&logoSize=auto&label=Angular&labelColor=white&color=ff0000)\
-![Docker](https://img.shields.io/badge/_-Docker?style=plastic&logo=docker&logoColor=black&logoSize=auto&label=Docker&labelColor=white&color=00bfff)
-![Selenium](https://img.shields.io/badge/_-Selenium?style=plastic&logo=selenium&logoColor=black&logoSize=auto&label=Selenium&labelColor=white&color=green)
-![Android Studio](https://img.shields.io/badge/_-Android_Studio?style=plastic&logo=android&logoColor=black&logoSize=auto&label=Android%20Studio&labelColor=white&color=green)\
-![Flutter](https://img.shields.io/badge/_-Flutter?style=plastic&logo=flutter&logoColor=black&logoSize=auto&label=Futter&labelColor=white&color=blue)
-![Postman](https://img.shields.io/badge/_-Postman?style=plastic&logo=postman&logoColor=black&logoSize=auto&label=Postman&labelColor=white&color=orange)
-![PostgreSQL](https://img.shields.io/badge/_-PostgreSQL?style=plastic&logo=postgresql&logoColor=black&logoSize=auto&label=PostgreSQL&labelColor=white&color=darkblue)\
-![Linux](https://img.shields.io/badge/_-Linux?style=plastic&logo=linux&logoColor=black&logoSize=auto&label=Linux&labelColor=white&color=gold)
-![Vim](https://img.shields.io/badge/_-Vim?style=plastic&logo=vim&logoColor=black&logoSize=auto&label=Vim&labelColor=white&color=green)
-![Git](https://img.shields.io/badge/_-Git?style=plastic&logo=git&logoColor=black&logoSize=auto&label=Git&labelColor=white&color=coral)\
-![VSC](https://img.shields.io/badge/_-Visual_Studio_Code?style=plastic&logo=vscodium&logoColor=black&logoSize=auto&label=VSCode&labelColor=white&color=blue)
-![Ps](https://img.shields.io/badge/_-Photoshop?style=plastic&logo=adobephotoshop&logoColor=black&logoSize=auto&label=Photoshop&labelColor=white&color=darkblue)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="rust logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+</div>
 
+###
 
-   
-### ⚙️ Analytics
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" alt="cplusplus logo"  />
+  <img width="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="csharp logo"  />
+  <img width="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
+  <img width="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
+  <img width="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="34" alt="bash logo"  />
+  <img width="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" alt="php logo"  />
+  <img width="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="typescript logo"  />
+</div>
 
-<p align="center">
-<a href="https://github.com/CMGSK">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CMGSK&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CMGSK&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+###
 
-    
-### 🤝🏻 Hit me up!
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="23" alt="fastapi logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="23" alt="django logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="23" alt="angularjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="23" alt="selenium logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="23" alt="androidstudio logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="23" alt="flutter logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="23" alt="postgresql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="23" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="23" alt="photoshop logo"  />
+</div>
 
-<p align="center">
-<a href="https://linkedin.com/in/cmg-sk/"><img src="https://img.shields.io/badge/-Carlos%20Manso-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:carlosmgov7k@gmail.com"><img src="https://img.shields.io/badge/-carlosmgov7k@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/turbotroleo"><img src="https://img.shields.io/badge/-@turbotroleo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-%2B34 663148797-44ffaa?style=flat&logo=whatsapp&logoColor=white"/></a>
-</p>
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/turbotroleo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="#Flashito3795" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="carlosmgov7k@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/cmg-sk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="+34 663 14 87 97" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CMGSK&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="145" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
