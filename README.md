@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CMGSK&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&hide=tex" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CMGSK&locale=en&layout=donut&hide_title=false&langs_count=6&theme=radical&hide_border=false&hide=tex" height="300" width="400 alt="languages graph"  />
 </div>
 
 ###
